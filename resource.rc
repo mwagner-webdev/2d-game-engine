@@ -1,0 +1,25 @@
+1 VERSIONINFO
+FILEVERSION     1,0,0,0
+PRODUCTVERSION  1,0,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904E4"
+    BEGIN
+      VALUE "CompanyName", "bgld"
+      VALUE "FileDescription", "FawesomeEngine"
+      VALUE "FileVersion", "1.0"
+      VALUE "InternalName", "fawesomeengine"
+      VALUE "LegalCopyright", "Copyright (c) 2010 bgld"
+      VALUE "OriginalFilename", "engine.exe"
+      VALUE "ProductName", "FawesomeEngine"
+      VALUE "ProductVersion", "1.0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1252
+  END
+END
+
+ID ICON "engine.ico"
